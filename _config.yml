@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Juan S. Vargas"
-  pronouns         :  example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "Research fellow"
-  location         : "Earth"
+  location         :# "Earth"
   employer         : "Queen's University Belfast"
   uri              : # URL
   email            : "j.vargas@qub.ac.uk" 
