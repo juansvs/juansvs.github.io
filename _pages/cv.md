@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Ecology and Evolutionary Biology, University of Toronto (2021)
+* Ph.D. in Ecology and Evolutionary Biology, University of Toronto (2021)
 * B.S. in Biology, University of Costa Rica (2013)
 
 Work experience
@@ -48,4 +48,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for The American Naturalist, PLOS Computational Biology, Scientific Reports, Ecography
