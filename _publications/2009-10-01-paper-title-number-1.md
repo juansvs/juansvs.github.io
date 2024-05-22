@@ -3,7 +3,7 @@ title: "Mercury levels in muscle tissue of four common elasmobranch species from
 collection: publications
 permalink: /publication/2016-paper-mercury-elasmo
 excerpt: ''
-date: 2016
+date: 2016-01-01
 venue: 'Regional Studies in Marine Science'
 slidesurl: 
 paperurl: 'http://juansvs.github.io/files/paper1.pdf'
