@@ -12,7 +12,7 @@ title                    : "Juan S. Vargas Soto"
 title_separator          : "-"
 name                     : &name "Juan S. Vargas Soto"
 description              : &description "Quantitative Conservation Biology"
-url                      : https://juansvs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://juansvs.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "juansvs/juansvs.github.io"
 
